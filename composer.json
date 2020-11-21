@@ -1,11 +1,11 @@
 {
     "name": "sigmie/contracts",
-    "description": "Sigmie Contracts package.",
+    "description": "The Sigmie Contracts package.",
     "license": "MIT",
-    "homepage": "https://docs.sigmie.com/contracts",
+    "homepage": "https://docs.sigmie.com",
     "support": {
         "issues": "https://github.com/sigmie/sigmie/issues",
-        "source": "https://github.com/sigmie/contracts"
+        "source": "https://github.com/sigmie/sigmie"
     },
     "authors": [
         {
@@ -21,6 +21,12 @@
             "Sigmie\\Contracts\\": ""
         }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "dev"
+        }
+    },
+    "suggest": {},
     "config": {
         "sort-packages": true
     },
